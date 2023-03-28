@@ -1,0 +1,30 @@
+{
+  "name": "all-nepal-geolocation",
+  "version": "1.0.0",
+  "description": "geolocations kept in hierarchy of Nepal>Province Name>District>Municipalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seamoonpandey/javascript-utils.git#main"
+  },
+  "keywords": [
+    "nepal",
+    "geolocation",
+    "nepal-geolocation",
+    "municipality",
+    "province",
+    "district",
+    "heirarchy",
+    "interlinked",
+    "location-json"
+  ],
+  "author": "Seamoon Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seamoonpandey/javascript-utils/issues"
+  },
+  "homepage": "https://github.com/seamoonpandey/javascript-utils/tree/main#readme"
+}
